@@ -45,7 +45,7 @@ let totalPriceUnder = ticketPrice - discountForUnder;
 let totalPriceUnderFixed = totalPriceUnder.toFixed(2);
 
 let totalPriceOver = ticketPrice - discountForOver;
-let totalPriceOverFixed = ticketPrice.toFixed(2);
+let totalPriceOverFixed = totalPriceOver.toFixed(2);
 
 //final price 
 
