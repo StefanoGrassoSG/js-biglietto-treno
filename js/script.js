@@ -59,7 +59,7 @@ if (ageFromPrompt > 65) {
     document.querySelector ("span").innerHTML =  totalPriceOverFixed + "€";
 }
 
-//fixing decimal
+
 
 
 
